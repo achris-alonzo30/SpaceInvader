@@ -1,0 +1,11 @@
+Things to improve in the game
+- Build a rock with a lifespan for player to hide.
+- Incorporate level mechanism
+    - Increase speed of the game
+    - Increase multiplier score
+- Add a boss feature in the game
+    - Shoots a beam that last for 2 seconds. ( Only happen twice )
+    - It has only 3 lives
+    - Worth 300-500 *= multiplier
+    - Appears every 3 minutes of the game
+    - Only moves one end to another.
